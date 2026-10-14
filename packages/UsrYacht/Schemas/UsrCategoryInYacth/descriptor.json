@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "85f96420-777e-4087-85bc-7064ba519ad8",
+    "Name": "UsrCategoryInYacth",
+    "ModifiedOnUtc": "\/Date(1791915079000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Category In Yacth"
+  }
+}
